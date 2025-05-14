@@ -1,0 +1,15 @@
+export {default as About} from './Components/Abour';
+export {default as Contact} from './Components/Contact';
+export {default as Featured} from './Components/Featured';
+export {default as ForgotPassword} from './Components/ForgotPassword';
+export {default as Home} from './Components/Home/Home';
+export {default as Login} from './Components/LogIn/Login';
+export {default as Navbar} from './Components/Navbar/Navbar';
+export {default as OtpVerification} from './Components/OtpVerification';
+export {default as Service} from './Components/Service';
+export {default as SignUp} from './Components/SignUp/SignUp';
+export {default as PageNotFound} from './Components/PageNotFound';
+export {default as Footer} from './Components/Footer';
+export {default as UserProfile} from './Components/UserData/UserProfile';
+export {default as Setting} from './Components/UserData/Setting';
+export {default as AdminHome} from './Components/Admin/AdminHome';
